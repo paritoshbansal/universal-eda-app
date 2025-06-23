@@ -1,6 +1,8 @@
 # 📊 Universal EDA App
 The Universal EDA App is a Streamlit-powered tool for performing automated Exploratory Data Analysis (EDA) on any dataset. It intelligently detects the problem type (classification or regression), generates insights, highlights trends, identifies best- and worst-case scenarios, and creates downloadable reports in both Markdown and PDF formats.
 
+👉 **[Try the Live App](https://universal-eda-app-hzcmv6tabeh5gtr46mlfnn.streamlit.app/)**
+
 # 🚀 Features
 - 📁 Upload .csv or .xlsx dataset
 - 🎯 Select your target column
